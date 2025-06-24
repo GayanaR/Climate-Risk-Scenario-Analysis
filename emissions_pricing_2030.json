@@ -1,0 +1,14 @@
+{
+  "EU": {
+    "price_per_tCO2e": 85,
+    "currency": "EUR"
+  },
+  "Canada": {
+    "price_per_tCO2e": 75,
+    "currency": "CAD"
+  },
+  "US": {
+    "price_per_tCO2e": 60,
+    "currency": "USD"
+  }
+}

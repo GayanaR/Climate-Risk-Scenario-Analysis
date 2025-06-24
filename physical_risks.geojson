@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "risk_level": "high",
+        "hazard": "flood"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              100.0,
+              13.0
+            ],
+            [
+              101.0,
+              13.0
+            ],
+            [
+              101.0,
+              14.0
+            ],
+            [
+              100.0,
+              14.0
+            ],
+            [
+              100.0,
+              13.0
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
