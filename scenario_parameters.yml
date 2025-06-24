@@ -1,0 +1,11 @@
+
+scenarios:
+  - name: Orderly
+    carbon_price_peak: 85
+    compliance_year: 2030
+  - name: Disorderly
+    carbon_price_peak: 110
+    compliance_year: 2028
+  - name: Hot House World
+    carbon_price_peak: 30
+    compliance_year: 2045
